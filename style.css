@@ -1,0 +1,42 @@
+.container {
+    height: 800px;
+
+}
+.auth-for-container {
+    width: 300px;
+    min-height: 200px;
+    border: 1px solid #ccc;
+    margin: auto;
+    padding: 15px;
+    box-sizing: border-box;
+    
+}
+.auth-for-container .textinputlabel {
+display: block;
+margin-bottom: 5px;
+}
+.group {
+margin: 15px;
+}
+.auth-for-container .textinput{
+    height: 30px;
+    width: 100%;
+    box-sizing: border-box;
+}
+.button{
+    display: block;
+    width: 100%;
+    height: 35px;
+    background-color: blueviolet;
+    border: 0;
+    color: white;
+    cursor: pointer;
+    margin-bottom: 15px;
+}
+.resetpass {
+    display: block;
+    text-align: center;
+    font-size: 12px;
+}
+
+
